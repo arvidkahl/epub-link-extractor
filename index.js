@@ -2,9 +2,14 @@
 
 /*
 
-How to use this: chmod+x the script file, then:
+Use this with npx:
 
- ./index.js --file="/some/path/to/your/file.epub"
+  `npx https://github.com/arvidkahl/epub-link-extractor --file "/some/path/to/your/file.epub"``
+
+
+How to use this locally: chmod+x the script file, then:
+
+ `./index.js --file="/some/path/to/your/file.epub"``
 
  */
 
